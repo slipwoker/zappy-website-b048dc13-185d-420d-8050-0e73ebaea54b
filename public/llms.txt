@@ -1,0 +1,85 @@
+# הובלות גדולות — Generative Engine Optimization Map
+
+> A large-scale moving and transportation company offering heavy or large-load moving services. The business operates in the logistics and relocation sector, likely handling residential, commercial, or industrial moves that require heavy-duty vehicles and professional crews.
+
+---
+
+## Pages
+
+### בית
+https://-b048dc13.zappy5.app
+חברת הובלות גדולות מציעה שירותי העברה מקצועיים למטענים כבדים ומורכבים. צוות מיומן, ציוד מתקדם וליווי צמוד לכל אורך הדרך. קבלו הצעת מחיר משתלמת עוד היום!
+
+### שירותים
+https://-b048dc13.zappy5.app/services
+מגוון שירותי הובלה מותאמים אישית: העברת פסנתרים, ציוד תעשייתי, משרדים ומטענים חריגים. ציוד חדשני וצוותים מנוסים מבטיחים מעבר חלק וללא דאגות. התקשרו לייעוץ חינם!
+
+### אודות
+https://-b048dc13.zappy5.app/about
+עם ניסיון של שנים בלוגיסטיקת הובלות מורכבות, אנו גאים בצוות המקצועי, בערכי האמינות והשקיפות שלנו. הכירו את האנשים שדואגים שהמעבר שלכם יהיה מושלם מהתחלה ועד הסוף.
+
+### צור קשר
+https://-b048dc13.zappy5.app/contact
+מוכנים לצאת לדרך? צרו קשר עם הובלות גדולות עוד היום לקבלת ייעוץ אישי, תכנון לוגיסטי מדויק והצעת מחיר אטרקטיבית ללא התחייבות. המשאית כבר בדרך אליכם!
+
+### תודה על פנייתכם
+https://-b048dc13.zappy5.app/thank-you
+הובלות גדולות - תודה על פנייתכם
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b048dc13.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b048dc13.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b048dc13.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-b048dc13.zappy5.app/contact
+- Endpoint: https://-b048dc13.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הובלות גדולות
+A large-scale moving and transportation company offering heavy or large-load moving services. The business operates in the logistics and relocation sector, likely handling residential, commercial, or industrial moves that require heavy-duty vehicles and professional crews.
+
+## Services/Products
+- הובלות גדולות
+
+## Target Audience
+- סוכני נדל"ן
+- משרדים עסקיים
+- משפחות גדולות במעבר
+
+## Industry
+Moving & Transportation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b048dc13.zappy5.app/sitemap.xml
+- Robots: https://-b048dc13.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b048dc13.zappy5.app/llms-full.txt
